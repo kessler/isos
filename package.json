@@ -1,0 +1,23 @@
+{
+  "name": "isos",
+  "version": "0.0.0",
+  "description": "test current os - isOs('windows') isOs('linux') ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kessler/isos"
+  },
+  "keywords": [
+    "os",
+    "util"
+  ],
+  "author": "Yaniv Kessler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kessler/isos/issues"
+  },
+  "homepage": "https://github.com/kessler/isos"
+}
