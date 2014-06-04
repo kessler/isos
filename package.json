@@ -1,6 +1,6 @@
 {
   "name": "isos",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "test current os - isOs('windows') isOs('linux') ...",
   "main": "index.js",
   "scripts": {
